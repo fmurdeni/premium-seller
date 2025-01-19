@@ -1,0 +1,133 @@
+.button-danger {
+    background-color: #dc3232;
+    color: #fff;
+}
+
+.button-danger:hover {
+    background-color: #a40000;
+    color: #fff;
+}
+
+/* Premium Seller Admin Styles */
+.premium-seller-wrap {
+    max-width: 1200px;
+    margin: 20px;
+    background: #fff;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.premium-seller-wrap h1 {
+    color: #23282d;
+    font-size: 24px;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 15px;
+}
+
+.premium-seller-form {
+    background: #f9f9f9;
+    padding: 25px;
+    border-radius: 6px;
+    margin-bottom: 40px;
+}
+
+.premium-seller-form h2 {
+    margin-top: 0;
+    color: #2271b1;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.form-table th {
+    padding: 20px 10px;
+    width: 200px;
+}
+
+.form-table input[type="text"],
+.form-table input[type="number"] {
+    width: 100%;
+    max-width: 400px;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.button-primary {
+    background: #2271b1;
+    border-color: #2271b1;
+    color: white;
+    padding: 8px 20px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.button-primary:hover {
+    background: #135e96;
+}
+
+.packages-table {
+    border: none;
+    border-collapse: collapse;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.packages-table th {
+    background: #f0f0f1;
+    padding: 12px;
+    text-align: left;
+    font-weight: 600;
+    color: #2c3338;
+}
+
+.packages-table td {
+    padding: 15px 12px;
+    vertical-align: middle;
+    
+}
+
+.packages-table tr:hover {
+    background: #f8f9fa;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.button-edit {
+    background: #2271b1;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.button-delete {
+    background: #dc3232;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.button-edit:hover {
+    background: #135e96;
+    color: white;
+}
+
+.button-delete:hover {
+    background: #b32d2e;
+    color: white;
+}
+
+.empty-message {
+    text-align: center;
+    padding: 30px;
+    color: #666;
+    font-style: italic;
+}

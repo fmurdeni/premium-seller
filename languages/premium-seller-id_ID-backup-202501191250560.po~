@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Premium seller for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-19 09:57+0000\n"
+"PO-Revision-Date: 2025-01-19 12:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bahasa Indonesia\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1\n"
+"X-Domain: premium-seller"
+
+#: templates/admin/list-packages.php:61
+msgid "Actions"
+msgstr "Tindakan"
+
+#: templates/admin/list-packages.php:8 templates/admin/list-packages.php:48
+msgid "Add Package"
+msgstr "Tambahkan Paket"
+
+#: templates/admin/list-packages.php:74
+msgid "Are you sure you want to delete this package?"
+msgstr "Apakah Anda yakin ingin menghapus paket ini?"
+
+#: templates/admin/list-packages.php:37 templates/admin/list-packages.php:60
+msgid "Credits"
+msgstr "Kredit"
+
+#: templates/admin/list-packages.php:74
+msgid "Delete"
+msgstr "Hapus"
+
+#: templates/admin/list-packages.php:15
+msgid "Description"
+msgstr ""
+
+#: templates/admin/list-packages.php:73
+msgid "Edit"
+msgstr "Sunting"
+
+#: templates/admin/list-packages.php:8
+msgid "Edit Package"
+msgstr "Sunting Paket"
+
+#: includes/class-seller-package.php:103 includes/class-seller-package.php:107
+msgid "Enable"
+msgstr ""
+
+#: templates/admin/list-packages.php:53
+msgid "Existing Packages"
+msgstr "Paket yang Ada"
+
+#. Author of the plugin
+msgid "Feri Murdeni"
+msgstr "Feri Murdeni"
+
+#: includes/class-seller-package.php:113
+msgid "Free Credit"
+msgstr "Kredit Gratis"
+
+#: includes/class-seller-package.php:119
+msgid "Free Credit Expiry Days"
+msgstr "Hari Kedaluwarsa Kredit Gratis"
+
+#. Author URI of the plugin
+msgid "https://murdeni.com"
+msgstr "https://murdeni.com"
+
+#: templates/admin/list-packages.php:57
+msgid "ID"
+msgstr "ID"
+
+#: includes/class-seller-package.php:109
+msgid "If enable, the seller must have a credit to publish the product."
+msgstr "Jika aktif, penjual harus memiliki kredit untuk mempublish produk."
+
+#: includes/class-seller-api.php:237
+msgid "Invalid package ID."
+msgstr "ID paket tidak valid."
+
+#: includes/class-seller-api.php:244
+msgid "Invalid seller ID."
+msgstr "ID penjual tidak valid."
+
+#: templates/admin/list-packages.php:58
+msgid "Name"
+msgstr "Nama"
+
+#: includes/class-seller-api.php:221 templates/admin/list-packages.php:80
+msgid "No packages found."
+msgstr "Tidak ada paket yang ditemukan."
+
+#: includes/class-seller-package.php:122
+msgid "Number of days before the free credit expires. Default is 7 days."
+msgstr "Jumlah hari sebelum kredit gratis berakhir. Standarnya adalah 7 hari."
+
+#: includes/class-seller-api.php:282
+msgid "Order created successfully."
+msgstr "Pesanan berhasil dibuat."
+
+#: templates/admin/list-packages.php:11
+msgid "Package Name"
+msgstr "Nama Paket"
+
+#: includes/class-seller-api.php:263
+msgid "Package not found."
+msgstr "Paket tidak ditemukan."
+
+#: includes/class-seller-package.php:63
+msgid "Packages"
+msgstr "Paket"
+
+#. Description of the plugin
+msgid "Plugin untuk menambahkan fitur premium seller di WooCommerce."
+msgstr "Plugin untuk menambah fitur Premium Seller di WooCommerce."
+
+#. Name of the plugin
+msgid "Premium seller for WooCommerce"
+msgstr "Premium Seller untuk WooCommerce"
+
+#: premium-seller.php:23
+msgid "Premium seller requires WooCommerce to be installed and active."
+msgstr "Premium Seller membutuhkan WooCommerce untuk diinstal dan aktif."
+
+#: templates/admin/list-packages.php:33 templates/admin/list-packages.php:59
+msgid "Price"
+msgstr "Harga"
+
+#: includes/class-seller-package.php:39 includes/class-seller-package.php:40
+#: templates/admin/list-packages.php:4
+msgid "Seller Packages"
+msgstr "Paket Penjual"
+
+#: includes/class-seller-package.php:50 includes/class-seller-package.php:51
+#: includes/class-seller-package.php:64
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: templates/admin/list-packages.php:46
+msgid "Update Package"
+msgstr "Perbarui Paket"
+
+#: includes/class-seller-package.php:115
+msgid ""
+"We offer free 1 credit to our sellers after purchase any package. You can "
+"set the number of days before the free credit expires. So that the seller "
+"have to use the credit before the expiry date."
+msgstr ""
+"Kita menawarkan 1 kredit gratis kepada penjual kami setelah membeli paket "
+"apa pun. Anda dapat mengatur jumlah hari sebelum kredit gratis berakhir. "
+"Sehingga penjual harus menggunakan pulsa tersebut sebelum tanggal "
+"kadaluwarsa."
+
+#: includes/class-seller-product.php:54
+msgid "You do not have enough credits to publish this product."
+msgstr "Anda tidak memiliki kredit yang cukup untuk menerbitkan produk ini."
